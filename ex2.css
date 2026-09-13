@@ -1,0 +1,11 @@
+p{
+   font-size: medium;
+   color: grey;
+}
+.favs{
+    color: yellowgreen;
+}
+#character-name{
+    color: red;
+    font-size: larger;
+}
