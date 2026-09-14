@@ -1,0 +1,26 @@
+body{
+    background-color: antiquewhite;
+    font-style:normal;
+    width: 200px;
+}
+div{
+    padding: 7px;
+    margin: 7px;
+}
+#quote1{
+    border: 2px solid tomato;
+    text-align: center;
+}
+#quote2{
+    border: 2px dotted grey;
+    text-align: center;
+}
+
+#quote3{
+    border: 2px double black;
+    text-align: center;
+}
+#quote4{
+    border: 2px dashed green;
+    text-align: center;
+}
