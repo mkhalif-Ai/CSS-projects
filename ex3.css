@@ -1,0 +1,30 @@
+   
+   .header {
+    background-color: #007bff; 
+    color: #ffffff; 
+}
+.about, .services {
+    background-color: #f8f9fa; 
+    color: #343a40; 
+}
+
+.service {
+    background-color: #28a745;
+    color: #ffffff; 
+}
+
+.footer {
+    background-color: #343a40; 
+    color: #f8f9fa; 
+}
+#test1{
+    background-color: #000000;
+    color: white;
+}
+#test2{
+    background-color: #00ffff;
+}
+#test3{
+    background-color: chartreuse;
+    color: brown;
+}
